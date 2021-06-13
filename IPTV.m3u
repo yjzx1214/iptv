@@ -1,0 +1,24 @@
+#EXTINF:-1 tvg-id="HuNanWeiShi.cn" tvg-name="湖南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/HNSTV_logo.png" group-title="卫视",湖南卫视
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd-hunanhd-2500/index.m3u8?&encrypt=1
+#EXTINF:-1 tvg-id="JiangSuWeiShi.cn" tvg-name="江苏卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/75/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" group-title="卫视",江苏卫视
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/cctv/jiangsuhd/2500/index.m3u8?&encrypt=1
+#EXTINF:-1 tvg-id="ZheJiangWeiShi.cn" tvg-name="浙江卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/Zhejiang_Television.png" group-title="卫视",浙江卫视
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/cctv/zhejianghd/2500/index.m3u8?&encrypt=1
+#EXTINF:-1 tvg-id="DongFangWeiShi.cn" tvg-name="东方卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/DragonTV_logo.png" group-title="卫视",东方卫视
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r4/dfl/dongfangwshd/3000/index.m3u8?&encrypt=1
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title="央视",CCTV中国中央电视台-1 综合
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/cctv/cctv1hd/2500/index.m3u8?&encrypt=1
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" group-title="央视",CCTV中国中央电视台-2 财经
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/cctv/cctv2hd/3000/index.m3u8?&encrypt=1
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" group-title="央视",CCTV中国中央电视台-3 综艺
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/ocn/cctv3hd/3000/index.m3u8?&encrypt=1
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/07/CCTV-4_Logo.svg/800px-CCTV-4_Logo.svg.png" group-title="央视",CCTV中国中央电视台-4 中文国际
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/cctv/cctv4hd/3000/index.m3u8?&encrypt=1
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="央视",CCTV中国中央电视台-5 体育
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/cctv/cctv5hdnew/2500/index.m3u8?&encrypt=
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" group-title="央视",CCTV中国中央电视台-5+ 体育赛事
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/cctv/cctv5plusnew/2500/index.m3u8?&encrypt=
+#EXTINF:-1 tvg-id="HuNanJingShi.cn" tvg-name="湖南经视" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/eb/HNETV_logo.png" group-title="地方台",湖南经视
+http://phonews.qing.mgtv.com/nn_live/nn_x64/cWlkPSZzPWVlYmE5NzMyYTA1YzVmMTZlNWM4YTE0ZDdkMGM0ZGZhJmVzPTE2MjM2MDU4MTYmdXVpZD1kZWIwMGUxMDAyZDI1ZTIwZTYwMWMyZjk4Njg5ZmQwMS02NTcwYTBlZSZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNJSMPP360.m3u8
+#EXTINF:-1 tvg-id="HuNanDuShi.cn" tvg-name="湖南都市" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://bkimg.cdn.bcebos.com/pic/8b13632762d0f7030a532be50ffa513d2697c522?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_auto" group-title="地方台",湖南都市
+http://phonews.qing.mgtv.com/nn_live/nn_x64/cWlkPSZzPWUyNWE1OWRjNmVjODRjN2E4NmQ2OGM2NjA4NDVjOTFmJmVzPTE2MjM2MDU4ODAmdXVpZD1mNWY1OGFkZTI5OGRlOTFlZDhhZDNiODM2NjgyZDI1MS02NTcwYTBlZSZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNDSMPP360.m3u8
