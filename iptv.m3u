@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="HuNanWeiShi.cn" tvg-name="湖南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/HNSTV_logo.png" group-title="",湖南卫视
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd-hunanhd-2500/index.m3u8?&encrypt=1
 #EXTINF:-1 tvg-id="JiangSuWeiShi.cn" tvg-name="江苏卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/75/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" group-title="",江苏卫视
